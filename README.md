@@ -17,3 +17,6 @@ Clone the repository and open `index.html` in your browser to view the landing p
 git clone https://github.com/futyx/etalon-landing-page.git
 cd etalon-landing-page
 open index.html
+
+## ✨ Live Demo
+[Live Demo](https://futyx.github.io/etalon-landing-page/)
